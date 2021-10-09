@@ -16,10 +16,17 @@ void Lub()
 	cout<<endl;
 }
 
+void DE()
+{
+	for (int i=0;i<5;i++)
+		cout<<"Dirilis Ertugrul have been the most successful cinematic work been around the world."<<endl;
+	cout<<endl;
+}
+
 int main ()
 {
 	IA();
 	Lub();
-	IA();
+	DE();
 	//M. Wajahat Shahid
 }
